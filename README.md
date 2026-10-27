@@ -54,6 +54,7 @@ The results show associations in the dataset and do not establish the causes of 
 - `WA_Fn-UseC_-HR-Employee-Attrition.csv` — Dataset
 - `department_attrition.png` — Department-wise chart, if saved
 - `overtime_attrition.png` — Overtime-wise chart, if saved
+- `Gender-Attrition .png `- Analyzed employee attrition by gender and created a chart to compare the results.
 
 ## Author
 Aarti Parte
